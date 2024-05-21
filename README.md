@@ -1,7 +1,7 @@
 ﻿# keystore-converter
 
 ### Prerequirement
-- node
+- node.js
 
 ### Usage
 ```
